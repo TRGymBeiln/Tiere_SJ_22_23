@@ -14,7 +14,7 @@ public class AFFE implements TIER
      */
     public AFFE()
     {
-        name = "Affe";
+        name = "Affe";//Name
 
     }
 
