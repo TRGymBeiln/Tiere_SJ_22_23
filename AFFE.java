@@ -23,7 +23,7 @@ public class AFFE implements TIER
      * 
      * @return        gib das Gerausch zurueck
      */
-    public String machtGeraesch()
+    public String machtGeraeusch()
     {
         return "UhUhAhAh";
     }

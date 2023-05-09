@@ -13,5 +13,5 @@ public interface TIER
      * 
      * @return        das Geraeuesch
      */
-    String machtGeraesch();
+    String machtGeraeusch();
 }
