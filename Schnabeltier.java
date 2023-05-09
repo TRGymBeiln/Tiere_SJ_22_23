@@ -1,22 +1,22 @@
 
 /**
- * Beschreiben Sie hier die Klasse Maulwurf.
+ * Beschreiben Sie hier die Klasse Schnabeltier.
  * 
  * @author (Ihr Name) 
  * @version (eine Versionsnummer oder ein Datum)
  */
-public class Maulwurf implements TIER
+public class Schnabeltier implements TIER
 {
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
      private String name;
 
     /**
-     * Konstruktor für Objekte der Klasse Maulwurf
+     * Konstruktor für Objekte der Klasse Schnabeltier
      */
-    public Maulwurf()
+    public Schnabeltier()
     {
         // Instanzvariable initialisieren
-        name = "Maulwurf";
+        name = "Schnabeltier(Perry)";
     }
 
     /**
@@ -28,6 +28,6 @@ public class Maulwurf implements TIER
     public String machtGeraeusch()
     {
         // tragen Sie hier den Code ein
-        return "QuiekQuiek";
+        return "brummbrumm";
     }
 }

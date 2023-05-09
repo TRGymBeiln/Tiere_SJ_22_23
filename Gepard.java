@@ -8,7 +8,7 @@
 public class Gepard implements TIER
 {
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
-    private int x;
+    private String name;
 
     /**
      * Konstruktor für Objekte der Klasse Gepard
@@ -16,7 +16,7 @@ public class Gepard implements TIER
     public Gepard()
     {
         // Instanzvariable initialisieren
-        x = 0;
+        name = "Gepard";
     }
 
     /**
