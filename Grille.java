@@ -5,7 +5,7 @@
  * @author (Ihr Name) 
  * @version (eine Versionsnummer oder ein Datum)
  */
-public class GRILLE implements TIER
+public class Grille implements TIER
 {
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
     private String name;
@@ -13,7 +13,7 @@ public class GRILLE implements TIER
     /**
      * Konstruktor für Objekte der Klasse CopyOfElefant
      */
-    public GRILLE()
+    public Grille()
     {
         // Instanzvariable initialisieren
         name = "Grille";

@@ -5,14 +5,14 @@
  * @author (Ihr Name) 
  * @version (eine Versionsnummer oder ein Datum)
  */
-public class FROSCH implements TIER
+public class Frosch implements TIER
 {
     private String name;
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
     /**
      * Konstruktor für Objekte der Klasse ESEL
      */
-    public FROSCH()
+    public Frosch()
     {
         name = "Frosch";//Name
 
